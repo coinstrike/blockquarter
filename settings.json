@@ -18,7 +18,7 @@
   // logo
   "logo": "/images/logo.png",
   // Optional header logo - change false to e.g. "/images/headerlogo.png"
-  "headerlogo": false,
+  "headerlogo": true,
 
   // favicon
   "favicon": "public/favicon.ico",
